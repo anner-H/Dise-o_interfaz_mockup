@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 10px;
+    font-family: 'Snippet';
+}
+
+/* COLORES */
+
+:root
+{
+    --rojito: #890909;
+    --amarillo-1: #FCBB3D;
+    --amarillo-2: #FFF388;
+    --negro: #121110;
+    --salmon: #DE3737;
+}
